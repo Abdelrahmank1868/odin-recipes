@@ -1,9 +1,9 @@
 My First Odin Project.
 
-I built a basic recipe website.
+I Built A Basic Recipe Website.
 
 Click the following URL:
 
-### [Odin Recipe Page] (https://abdelrahmank1868.github.io/odin-recipes/)
+### [Odin Recipe Page](https://abdelrahmank1868.github.io/odin-recipes/)
 
 Enjoy!
